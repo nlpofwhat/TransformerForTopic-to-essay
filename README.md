@@ -10,4 +10,6 @@ tensorflow 1.12.0
 cuda 9.0
 cudnn 7.4
 
-the data is put in the 'data/', you can train dircetly. 
+The data is put in the 'data/', you can train dircetly. 
+Attention! because the input is unorderd, I drop the position embedding.
+Bleu score and dist-n score is emplyed to test.
