@@ -13,3 +13,6 @@ cudnn 7.4
 The data is put in the 'data/', you can train dircetly. 
 Attention! because the input is unorderd, I drop the position embedding.
 Bleu score and dist-n score is emplyed to test.
+
+
+reference: https://github.com/Kyubyong/transformer
